@@ -5,3 +5,4 @@
 - Hours to minutes
 - Feet to inches
 - degrees to radians
+- celcius to farenheito
